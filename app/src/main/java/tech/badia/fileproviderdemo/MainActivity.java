@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         mNotificationManager = (NotificationManager) this.getSystemService(Context.NOTIFICATION_SERVICE);
-
+        
 
 
     }
